@@ -1,0 +1,1 @@
+这个仓库是Espressif-IDE汉化教程的分享仓库，直接阅读Espressif-IDE中文汉化.PDF文件即可。
